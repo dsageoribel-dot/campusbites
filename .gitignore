@@ -1,0 +1,8 @@
+# igonre all .log files
+*.log
+
+#ignore a specific directory
+/temp_folder/
+
+#igonre a specific file
+my_credentials.txt
